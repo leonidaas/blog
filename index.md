@@ -1,6 +1,6 @@
 ---
-title: Join my learning adventure!
+title: Leon Fuessner
 ---
 
-This is my first blog post
+I write about different topics, mostly Computer Science stuff
 
