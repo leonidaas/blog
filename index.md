@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Join my learning adventure!
 ---
 
 This is my first blog post
